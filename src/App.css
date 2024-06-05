@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.sora-small {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px; /* Example size */
+}
+
+.sora-medium {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px; /* Example size */
+}
+
+.sora-large {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px; /* Example size */
+}
+
+.sora-xlarge {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px; /* Example size */
+}
+
+.sora-xxlarge {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px; /* Example size */
+}
+.sora-medium-bold {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+  font-size: 16px; /* Example size */
+}
+
+.container_loader {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-message {
+  text-align: center;
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  font-size: 6rem;
+  font-weight: 700; 
+}
+
+.nav_link_item Link{
+  color: white;
+}
